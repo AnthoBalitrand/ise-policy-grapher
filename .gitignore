@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# ISE policy files
+*.xml
+
+# Generated graphs
+*.graphml
+
+# Python virtual-env
+venv/
+
+# idea project
+.idea/
+
+# MacOS DS_Store
+.DS_Store
